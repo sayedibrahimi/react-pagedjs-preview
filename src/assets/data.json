@@ -1,0 +1,150 @@
+{
+  "books": [
+    {
+      "id": "123",
+      "title": "Deep Work",
+      "description": "A deep dive into the benefits and strategies of focused work.",
+      "coverImage": "",
+      "chapters": [
+        {
+          "id": "100",
+          "index": 1,
+          "title": "Preface",
+          "description": "An introduction to the concept of deep work.",
+          "sections": [
+            {
+              "id": "0",
+              "title": "Section 0",
+              "description": "Description 0",
+              "content": "<p>hello</p>"
+            },
+            {
+              "id": "1",
+              "title": "Section 1",
+              "description": "Description 1",
+              "content": "<p>Content of Section 2 here</p>"
+            },
+            {
+              "title": "hello",
+              "description": "",
+              "content": "<p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p><p></p><p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>",
+              "id": "1722887558400"
+            }
+          ]
+        },
+        {
+          "id": "200",
+          "index": 3,
+          "title": "Content",
+          "description": "Detailed strategies and techniques for deep work.",
+          "sections": [
+            {
+              "id": "2",
+              "title": "Section 2",
+              "description": "Description 2",
+              "content": "<p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p><p></p><p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p><p></p><p></p><p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>"
+            },
+            {
+              "id": "3",
+              "title": "Section 3",
+              "description": "Description 3",
+              "content": "<p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Introduction",
+          "description": "",
+          "sections": [
+            {
+              "title": "Salam",
+              "description": "",
+              "content": "<p>INTRODUCTION</p><p></p><p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p><p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p><p></p><p>Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <em>Ut enim ad minim veniam</em>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <strong>totam rem aperiam</strong>, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <em>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</em>, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p><strong>Ut enim ad minima veniam</strong>, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <em>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</em>, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>",
+              "id": "1722897701952"
+            }
+          ],
+          "id": "1722803168356"
+        }
+      ]
+    },
+    {
+      "id": "786",
+      "title": "The Power of Habit",
+      "description": "An exploration of the science behind habit formation and change.",
+      "coverImage": "",
+      "chapters": [
+        {
+          "id": "300",
+          "index": 2,
+          "title": "Introduction",
+          "description": "Understanding the power of habits.",
+          "sections": [
+            {
+              "id": "4",
+              "title": "Section 4",
+              "description": "Description 4",
+              "content": "<p>Content of Section 4</p>"
+            }
+          ]
+        },
+        {
+          "id": "400",
+          "index": 1,
+          "title": "Habit Formation",
+          "description": "How habits are formed and maintained.",
+          "sections": [
+            {
+              "id": "5",
+              "title": "Section 5",
+              "description": "Description 5",
+              "content": "<p>Content of Section 5</p>"
+            },
+            {
+              "id": "6",
+              "title": "Section 6",
+              "description": "Description 6",
+              "content": "<p>Content of Section 6</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "313",
+      "title": "The 4-Hour Workweek",
+      "description": "A guide to living more and working less by Tim Ferriss.",
+      "coverImage": "",
+      "chapters": [
+        {
+          "id": "500",
+          "index": 1,
+          "title": "Introduction",
+          "description": "An overview of the 4-hour workweek concept.",
+          "sections": [
+            {
+              "id": "7",
+              "title": "Section 7",
+              "description": "Description 7",
+              "content": "<p>Content of Section 7</p>"
+            }
+          ]
+        },
+        {
+          "id": "600",
+          "index": 2,
+          "title": "Lifestyle Design",
+          "description": "Techniques for designing a more effective lifestyle.",
+          "sections": [
+            {
+              "id": "8",
+              "title": "Section 8",
+              "description": "Description 8",
+              "content": "<p>Content of Section 8</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
