@@ -1,0 +1,19 @@
+@media print {
+  h2 {
+    break-after: avoid;
+  }
+  body {
+    font-size: 0.8em;
+    color: darkblue;
+  }
+}
+
+@page {
+  background: lightblue;
+  size: 100mm 100mm;
+  /* background: blue; */
+  margin: 20mm 10mm;
+  @bottom-center {
+    content: counter(page);
+  }
+}
