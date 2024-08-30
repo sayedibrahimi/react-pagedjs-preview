@@ -43,11 +43,11 @@ const BookPreview = () => {
                 <div class="section my-4">
                   <div>${section.content}</div>
                 </div>
-              `
+              `,
                 )
                 .join("")}
             </div>
-          `
+          `,
             )
             .join("")}
         `;
@@ -56,11 +56,14 @@ const BookPreview = () => {
       tempContainer.innerHTML = content;
 
       // Paged.js to paginate the content
-      const previewer = new Previewer();
-      previewer.preview(
+      const paged = new Previewer();
+
+      const cssstring = `@media print {h2 {break-after: avoid;} @page {size: a3; background: orange; margin: 20mm 10mm; @bottom-center { content: counter(page)}}}`;
+
+      paged.preview(
         tempContainer,
-        [{ styles: "@page {size: A5}" }],
-        document.querySelector("#output")
+        ["/preview.css"],
+        document.querySelector("#output"),
       );
       // .then((flow) => {
       //   // Clear the original content in the #book element
